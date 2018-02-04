@@ -7,6 +7,8 @@ Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "objectTest", "objectTest\ob
 EndProject
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "ScoreToHtml", "ScoreToHtml\ScoreToHtml.njsproj", "{4DD8694D-B6C6-4D53-B5F4-90E9B072E3E8}"
 EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "JsonToHtml", "JsonToHtml\JsonToHtml.njsproj", "{E4475E08-ACAE-4F42-9C07-7332DDC79CCE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4DD8694D-B6C6-4D53-B5F4-90E9B072E3E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DD8694D-B6C6-4D53-B5F4-90E9B072E3E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DD8694D-B6C6-4D53-B5F4-90E9B072E3E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4475E08-ACAE-4F42-9C07-7332DDC79CCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4475E08-ACAE-4F42-9C07-7332DDC79CCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4475E08-ACAE-4F42-9C07-7332DDC79CCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4475E08-ACAE-4F42-9C07-7332DDC79CCE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

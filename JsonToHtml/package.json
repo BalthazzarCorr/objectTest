@@ -1,0 +1,9 @@
+{
+  "name": "json-to-html",
+  "version": "0.0.0",
+  "description": "JsonToHtml",
+  "main": "app.js",
+  "author": {
+    "name": "Balt"
+  }
+}
