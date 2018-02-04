@@ -1,4 +1,5 @@
 function fromJSONToHTMLTable(str) {
+
     let objs = JSON.parse(str);
     let html = '<table>\n';
 

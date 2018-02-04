@@ -1,0 +1,9 @@
+{
+  "name": "sum-towns",
+  "version": "0.0.0",
+  "description": "sumTowns",
+  "main": "app.js",
+  "author": {
+    "name": "Balt"
+  }
+}
