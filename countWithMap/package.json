@@ -1,0 +1,9 @@
+{
+  "name": "count-with-map",
+  "version": "0.0.0",
+  "description": "countWithMap",
+  "main": "app.js",
+  "author": {
+    "name": "Balt"
+  }
+}

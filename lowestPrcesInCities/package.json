@@ -1,0 +1,9 @@
+{
+  "name": "lowest-prces-in-cities",
+  "version": "0.0.0",
+  "description": "lowestPrcesInCities",
+  "main": "app.js",
+  "author": {
+    "name": "Balt"
+  }
+}

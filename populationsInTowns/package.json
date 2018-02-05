@@ -1,0 +1,9 @@
+{
+  "name": "populations-in-towns",
+  "version": "0.0.0",
+  "description": "populationsInTowns",
+  "main": "app.js",
+  "author": {
+    "name": "Balt"
+  }
+}

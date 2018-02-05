@@ -11,6 +11,18 @@ Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "JsonToHtml", "JsonToHtml\Js
 EndProject
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "sumTowns", "sumTowns\sumTowns.njsproj", "{CBFA431C-7900-4F53-937C-D86BC4B6C533}"
 EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "countWordsInText", "countWordsInText\countWordsInText.njsproj", "{34E0CA08-8A8D-4DD7-9889-E257BA8E9241}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "countWithMap", "countWithMap\countWithMap.njsproj", "{28A0F956-0A21-4D3F-8734-C5565E9902DA}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "populationsInTowns", "populationsInTowns\populationsInTowns.njsproj", "{6B59FC99-A310-4B89-A9AB-F5BD67129A89}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "CityMarkets", "CityMarkets\CityMarkets.njsproj", "{F1896B1F-8517-4320-8CB4-5DCCA315CD66}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "lowestPrcesInCities", "lowestPrcesInCities\lowestPrcesInCities.njsproj", "{99D2D12A-349A-48EA-8FFF-C498A95AA1C3}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "ExtractUniqueWords", "ExtractUniqueWords\ExtractUniqueWords.njsproj", "{6616160A-E973-48B6-8DD7-0DA23AF22F6B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +45,30 @@ Global
 		{CBFA431C-7900-4F53-937C-D86BC4B6C533}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBFA431C-7900-4F53-937C-D86BC4B6C533}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBFA431C-7900-4F53-937C-D86BC4B6C533}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34E0CA08-8A8D-4DD7-9889-E257BA8E9241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34E0CA08-8A8D-4DD7-9889-E257BA8E9241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34E0CA08-8A8D-4DD7-9889-E257BA8E9241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34E0CA08-8A8D-4DD7-9889-E257BA8E9241}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28A0F956-0A21-4D3F-8734-C5565E9902DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28A0F956-0A21-4D3F-8734-C5565E9902DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28A0F956-0A21-4D3F-8734-C5565E9902DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28A0F956-0A21-4D3F-8734-C5565E9902DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B59FC99-A310-4B89-A9AB-F5BD67129A89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B59FC99-A310-4B89-A9AB-F5BD67129A89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B59FC99-A310-4B89-A9AB-F5BD67129A89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B59FC99-A310-4B89-A9AB-F5BD67129A89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1896B1F-8517-4320-8CB4-5DCCA315CD66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1896B1F-8517-4320-8CB4-5DCCA315CD66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1896B1F-8517-4320-8CB4-5DCCA315CD66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1896B1F-8517-4320-8CB4-5DCCA315CD66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99D2D12A-349A-48EA-8FFF-C498A95AA1C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99D2D12A-349A-48EA-8FFF-C498A95AA1C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99D2D12A-349A-48EA-8FFF-C498A95AA1C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99D2D12A-349A-48EA-8FFF-C498A95AA1C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6616160A-E973-48B6-8DD7-0DA23AF22F6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6616160A-E973-48B6-8DD7-0DA23AF22F6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6616160A-E973-48B6-8DD7-0DA23AF22F6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6616160A-E973-48B6-8DD7-0DA23AF22F6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
