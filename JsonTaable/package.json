@@ -1,0 +1,9 @@
+{
+  "name": "json-taable",
+  "version": "0.0.0",
+  "description": "JsonTaable",
+  "main": "app.js",
+  "author": {
+    "name": "Balt"
+  }
+}

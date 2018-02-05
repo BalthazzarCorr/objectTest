@@ -1,0 +1,9 @@
+{
+  "name": "cappy-juice",
+  "version": "0.0.0",
+  "description": "cappyJuice",
+  "main": "app.js",
+  "author": {
+    "name": "Balt"
+  }
+}
