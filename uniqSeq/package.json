@@ -1,0 +1,9 @@
+{
+  "name": "uniq-seq",
+  "version": "0.0.0",
+  "description": "uniqSeq",
+  "main": "app.js",
+  "author": {
+    "name": "Balt"
+  }
+}

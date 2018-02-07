@@ -1,0 +1,9 @@
+{
+  "name": "user-names",
+  "version": "0.0.0",
+  "description": "userNames",
+  "main": "app.js",
+  "author": {
+    "name": "Balt"
+  }
+}
