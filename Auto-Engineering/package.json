@@ -1,0 +1,9 @@
+{
+  "name": "auto-engineering",
+  "version": "0.0.0",
+  "description": "Auto-Engineering",
+  "main": "app.js",
+  "author": {
+    "name": "BaltCorr"
+  }
+}
